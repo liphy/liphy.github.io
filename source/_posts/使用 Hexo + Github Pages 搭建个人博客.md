@@ -14,6 +14,10 @@ tags:
 
 参考  [# 手把手教你使用Hexo + Github Pages搭建个人独立博客](https://linghucong.js.org/2016/04/15/2016-04-15-hexo-github-pages-blog/)
 
+2019年2月15日 update：
+
+[hexo你的博客](http://ibruce.info/2013/11/22/hexo-your-blog/)
+
 # 系统环境配置
 
 要使用Hexo，需要在你的系统中支持Nodejs以及Git，如果还没有，那就开始安装吧！
@@ -152,7 +156,6 @@ deploy:
 hexo d
 ```
 即可部署。
-
 
 
 
