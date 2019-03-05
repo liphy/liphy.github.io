@@ -1,6 +1,7 @@
 ---
 title: 利用KindleEar搭建免费的Kindle新闻推送系统
 date: 2018-01-04 22:52:02
+urlname: push-to-Kindle-with-KindleEar
 tags:
   - blog
   - github

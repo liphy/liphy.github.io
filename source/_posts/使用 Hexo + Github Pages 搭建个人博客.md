@@ -1,20 +1,21 @@
 ---
 title: 使用 Hexo + Github Pages 搭建个人博客
+urlname: hexo-github-Blog
 date: 2018-01-04 22:52:02
 tags:
   - blog
   - github
-  - Hexo
+  - hexo
 ---
 
-2180104 Thu
+2180104,Thu update:
 
 
 使用 Hexo + Github Pages 搭建个人博客
 
 参考  [# 手把手教你使用Hexo + Github Pages搭建个人独立博客](https://linghucong.js.org/2016/04/15/2016-04-15-hexo-github-pages-blog/)
 
-2019年2月15日 update：
+20190215 update:
 
 [hexo你的博客](http://ibruce.info/2013/11/22/hexo-your-blog/)
 
@@ -157,22 +158,32 @@ hexo d
 ```
 即可部署。
 
+# 常见问题
 
+### error deployer not found:git 错误
 
----------
-
-注意 问题 
-
-# hexo问题
-
-> 1.  先`hexo g`再执行`hexo d`布署，也可使直接用`hexo d -g`
-
-> 1.  hexo 更新到3.0之后，deploy的type 的github需要改成`git`
-
-> 1.  在执行 hexo deploy 后,出现 error deployer not found:git 的错误处理
+1.  在执行 hexo deploy 后,出现 error deployer not found:git 的错误处理
 
 输入代码：
 
-`npm install hexo-deployer-git --save`
+```
+npm install hexo-deployer-git --save
+```
 
+### No such device or address 错误
+
+```
+bash: /dev/tty: No such device or address
+```
+
+解决方法：
+
+_config.yml 设置：
+
+```
+deploy:
+    type: git
+    repo: git@github.com:[username]/[username].github.io.git
+    branch: master
+```
 

@@ -1,6 +1,7 @@
 ---
 title: Hexo 主题推荐
 date: 2018-04-09 22:14:02
+urlname: about-hexo-theme
 tags:
   - Hexo
   - theme
@@ -28,7 +29,5 @@ todo:
 待研究的主题：
 
 Maupassant  https://github.com/tufu9441/maupassant-hexo
-
-
 
 Tranquilpeak https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak

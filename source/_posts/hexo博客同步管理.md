@@ -1,6 +1,7 @@
-﻿---
-title: 多端同步 Hexo
+---
+title: hexo 博客同步管理
 date: 2018-04-26 20:31:00
+urlname: sync-hexo-blog
 tags:
   - blog
   - github

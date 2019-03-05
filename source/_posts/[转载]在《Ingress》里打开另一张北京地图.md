@@ -1,6 +1,7 @@
 ---
 title: 在《Ingress》里打开另一张北京地图
 date: 2018-01-05 11:12:39
+urlname: Ingress-Beijing-map
 tags:
 - ingress
 ---

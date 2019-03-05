@@ -7,14 +7,14 @@ title: 41 blog
 subtitle: Do fewer things, Better.
 description:
 author: 41
-language:
+language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
-permalink: :title/
+permalink: :urlname/
 permalink_defaults:
 
 # Directory
