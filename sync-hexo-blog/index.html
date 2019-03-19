@@ -87,7 +87,7 @@
 <meta property="og:site_name" content="41 blog">
 <meta property="og:description" content="使用 Hexo + Github Pages 搭建个人博客，如果想在不同的终端写博客，就需要保证终端的配置和静态文件保持一致，否者在多端执行 hexo d -g 后会出现不一样的情况。 我的同步方案是使用坚果云同步整个 blog 文件夹，这样能保持多端修改能够自动同步。 有大神说建个 repo，待我 git 学习好了再试。 2019年2月15日 uodate: 照着这篇文章搞定了：hexo博客同步">
 <meta property="og:locale" content="en">
-<meta property="og:updated_time" content="2019-03-05T08:47:00.628Z">
+<meta property="og:updated_time" content="2019-03-19T08:17:55.309Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="hexo 博客同步管理">
 <meta name="twitter:description" content="使用 Hexo + Github Pages 搭建个人博客，如果想在不同的终端写博客，就需要保证终端的配置和静态文件保持一致，否者在多端执行 hexo d -g 后会出现不一样的情况。 我的同步方案是使用坚果云同步整个 blog 文件夹，这样能保持多端修改能够自动同步。 有大神说建个 repo，待我 git 学习好了再试。 2019年2月15日 uodate: 照着这篇文章搞定了：hexo博客同步">
@@ -324,9 +324,9 @@
 <p>将上述 .git 文件夹复制到本机本地博客根目录下（即含有 themes、source 等文件夹的那个目录），现在可以把上述 clone 的本地仓库删掉了，因为它已经没有用了，本机博客目录已经变成可以和 hexo 分支相连的仓库了。</p>
 <p>将博客目录下 themes 文件夹下每个主题文件夹里面的 .git .gitignore 删掉。</p>
 <p> cd 到博客目录，git add -A ，git commit -m “–”，git push origin hexo，将博客目录下所有文件更新到 hexo 分支。如果上一步没有删掉 .git .gitignore，主题文件夹下内容将传不上去。至此原电脑上的操作结束。</p>
-<p>在新电脑上操作，先把新电脑上环境安装好，node.js、git、hexo，ssh key 也创建和添加好。</p>
-<p>选好博客安装的目录， git clone git@github.com:username/username.github.io.git 。</p>
-<p>cd 到博客目录，npm install、hexo g &amp;&amp; hexo s，安装依赖，生成和启动博客服务。正常的话，浏览器打开 localhost:4000 可以看到博客了。至此新电脑操作完毕。</p>
+<p><strong>在新电脑上操作，先把新电脑上环境安装好，node.js、git、hexo，ssh key 也创建和添加好。</strong></p>
+<p><strong>选好博客安装的目录，执行  git clone git@github.com:username/username.github.io.git</strong> </p>
+<p><strong>cd 到博客目录，npm install、hexo g  &amp;&amp; hexo s，安装依赖，生成和启动博客服务。正常的话，浏览器打开 localhost:4000 可以看到博客了。至此新电脑操作完毕。</strong></p>
 <p><strong>以后无论在哪台电脑上，更新以及提交博客，依次执行，git pull，git add -A ，git commit -m “–”，git push origin hexo，hexo clean &amp;&amp; hexo g &amp;&amp; hexo d 即可。</strong></p>
 
       
@@ -374,8 +374,8 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/a-singer/" rel="prev" title="白衣飘飘的年代">
-                白衣飘飘的年代 <i class="fa fa-chevron-right"></i>
+              <a href="/anybody-here/" rel="prev" title="你说外星有没有生命？">
+                你说外星有没有生命？ <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -448,7 +448,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">13</span>
+                  <span class="site-state-item-count">14</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
@@ -461,7 +461,7 @@
               
               <div class="site-state-item site-state-tags">
                 
-                  <span class="site-state-item-count">23</span>
+                  <span class="site-state-item-count">24</span>
                   <span class="site-state-item-name">tags</span>
                 
               </div>
