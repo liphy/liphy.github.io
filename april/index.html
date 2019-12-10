@@ -5,7 +5,7 @@
   
 
 
-<html class="theme-next gemini use-motion" lang="en">
+<html class="theme-next gemini use-motion" lang="zh-CN">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -74,17 +74,20 @@
 
 
 
+  <link rel="alternate" href="/atom.xml" title="41 blog" type="application/atom+xml" />
 
 
 
 
 
-<meta name="description" content="四月不住 2019.4.8 马褂木满树柔情每个清晨越发圆润透明, 樱花吧，前几年爱的慌，近年不敢近赏，怕动了春心。 香樟，最解我心，每一片叶子闪烁着太阳的光辉。 这个夏天，我又认识了新植物。 紫薇，黄鹤楼下那一株，老得剩几截白骨。 紫荆，也许纳博科夫会为它赋诗一首。 迎春花，太过热情。 榉树，树如其名。 朴树，像那个同名歌手，低调深沉。">
+
+<meta name="description" content="四月不住 2019.4.8 马褂木满树柔情每个清晨越发圆润透明, 樱花吧，前几年爱的慌，近年不敢近赏，怕动了春心。 香樟，最解我心，每一片叶子闪烁着太阳的光辉。 这个夏天，我又认识了新植物。 紫薇，黄鹤楼下那一株，老得剩几截白骨。 紫荆，也许纳博科夫会为它赋诗一首。 迎春花，太过热情。 榉树，树如其名。 朴树，像那个同名歌手，低调深沉。          document.querySelecto">
 <meta property="og:type" content="article">
 <meta property="og:title" content="诗 | 春住">
-<meta property="og:url" content="http:&#x2F;&#x2F;yoursite.com&#x2F;april&#x2F;index.html">
+<meta property="og:url" content="https:&#x2F;&#x2F;liphy.github.io&#x2F;april&#x2F;index.html">
 <meta property="og:site_name" content="41 blog">
-<meta property="og:description" content="四月不住 2019.4.8 马褂木满树柔情每个清晨越发圆润透明, 樱花吧，前几年爱的慌，近年不敢近赏，怕动了春心。 香樟，最解我心，每一片叶子闪烁着太阳的光辉。 这个夏天，我又认识了新植物。 紫薇，黄鹤楼下那一株，老得剩几截白骨。 紫荆，也许纳博科夫会为它赋诗一首。 迎春花，太过热情。 榉树，树如其名。 朴树，像那个同名歌手，低调深沉。">
+<meta property="og:description" content="四月不住 2019.4.8 马褂木满树柔情每个清晨越发圆润透明, 樱花吧，前几年爱的慌，近年不敢近赏，怕动了春心。 香樟，最解我心，每一片叶子闪烁着太阳的光辉。 这个夏天，我又认识了新植物。 紫薇，黄鹤楼下那一株，老得剩几截白骨。 紫荆，也许纳博科夫会为它赋诗一首。 迎春花，太过热情。 榉树，树如其名。 朴树，像那个同名歌手，低调深沉。          document.querySelecto">
+<meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2019-04-09T07:14:08.014Z">
 <meta property="article:modified_time" content="2019-04-09T07:17:59.658Z">
 <meta property="article:author" content="41">
@@ -120,7 +123,7 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/april/"/>
+  <link rel="canonical" href="https://liphy.github.io/april/"/>
 
 
 
@@ -138,7 +141,7 @@
 
 <meta name="generator" content="Hexo 4.1.0"></head>
 
-<body itemscope itemtype="http://schema.org/WebPage" lang="en">
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-CN">
 
   
   
@@ -243,7 +246,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/april/">
+    <link itemprop="mainEntityOfPage" href="https://liphy.github.io/april/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="41">
@@ -321,7 +324,25 @@
 <p>迎春花，太过热情。</p>
 <p>榉树，树如其名。</p>
 <p>朴树，像那个同名歌手，低调深沉。</p>
-
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>
       
     </div>
     
@@ -458,6 +479,13 @@
 
           </nav>
 
+          
+            <div class="feed-link motion-element">
+              <a href="/atom.xml" rel="alternate">
+                <i class="fa fa-rss"></i>
+                RSS
+              </a>
+            </div>
           
 
           
