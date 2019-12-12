@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://liphy.github.io/"/>
-  <updated>2019-12-10T09:32:53.643Z</updated>
+  <updated>2019-12-12T08:17:37.993Z</updated>
   <id>https://liphy.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://liphy.github.io/2019-reading-summary/"/>
     <id>https://liphy.github.io/2019-reading-summary/</id>
     <published>2019-12-09T07:52:00.000Z</published>
-    <updated>2019-12-10T09:32:53.643Z</updated>
+    <updated>2019-12-12T08:17:37.993Z</updated>
     
     <content type="html"><![CDATA[<p><img src="\images\pasted-0.png" alt="books"></p><h3 id="这一年"><a href="#这一年" class="headerlink" title="这一年"></a>这一年</h3><p>2019年依然埋头读书。这一年读书不多，依然是尽量依照自己的兴趣去读。</p><p>固定的读书时间让我觉得心安。世事纷扰啊，成年人光是接触到书，都需要拨开重重迷雾，安心读上几页已是奢谈。于是格外珍惜读书时光。每个通勤的早晨，读书之前除了点餐之外不看手机。洗手坐定，拿出书，即开始一段全心投入的读书时间。</p><p>有时夜晚也能抽出一些时间来读上几页，无奈睡意及时将我击倒，坠入沉沉黑夜。</p><p>早晚读书，大有不同。早晨放空的大脑，纯粹、包容，对每一行字句都全盘接纳。<br>晚上读书，白天经历的一切都是阻碍，横亘在你和书之间，非要凭着坚决的意志推开层层阻碍，才见真章。</p><h3 id="读书类型总结"><a href="#读书类型总结" class="headerlink" title="读书类型总结"></a>读书类型总结</h3><h4 id="书单"><a href="#书单" class="headerlink" title="书单"></a>书单</h4><p>读了中东国家、土耳其方面的书，读了几本诗集。</p><h4 id="2019-最佳书目"><a href="#2019-最佳书目" class="headerlink" title="2019 最佳书目"></a>2019 最佳书目</h4><ul><li><p>「加缪手记（共三卷）」。加缪说「这个世纪的真相：因为历经了许多重大事件，我们开始习惯说谎。别再去管其余一切，只说出我内心最深处的那些。」学着加缪，在日记里说出内心最深处的那些。</p></li><li><p>「蒙田随笔」</p></li></ul><h3 id="读书介质"><a href="#读书介质" class="headerlink" title="读书介质"></a>读书介质</h3><ul><li><p>Kindle，轻便、随时阅读。</p></li><li><p>图书馆。纸质书依然是无法割舍，抚摸纸书的感觉真好。</p></li><li><p>微信读书，今年取消了听书，主要用来读读诗集。</p></li></ul><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><p>继续读某一专题的书。例如年初读了三岛由纪夫的「丰饶之海」四部曲之后，坠入了「三岛美学」的漩涡。</p><p>接下来专注专题读书：</p><ul><li>两次世界大战及交战国主题； </li><li>日本作者的书籍，川端康成、谷崎润一郎、永井荷风等。</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
@@ -36,10 +36,72 @@
     </summary>
     
     
+      <category term="读书" scheme="https://liphy.github.io/categories/reading/"/>
+    
     
       <category term="reading" scheme="https://liphy.github.io/tags/reading/"/>
     
       <category term="2019" scheme="https://liphy.github.io/tags/2019/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>6：晴空一鹤排云上，夹岸桃花蘸水开</title>
+    <link href="https://liphy.github.io/6/"/>
+    <id>https://liphy.github.io/6/</id>
+    <published>2019-09-24T05:11:26.000Z</published>
+    <updated>2019-12-12T06:34:07.709Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>这些生灵，小小的身体里满是自然的灵性，观察他们让我意识到我很幸运，作为自然生态中的一员，和它们一样，也是宇宙中一枚小小的生命。</p></blockquote><h2 id="书摘"><a href="#书摘" class="headerlink" title="书摘"></a>书摘</h2><p>「鳄鱼街」·「鸟」</p><p>这是「鳄鱼街」第二篇，如果说第一篇「八月」让我刚刚进入舒尔茨的语境还略显生疏，仅能够对只言片语产生赞美。那么第二篇「鸟」绝对让我惊艳并产生感同身受的共鸣，不是我曾经在自家阁楼养过鸟儿，我既没有阁楼也没有鸟蛋。但我曾经不止一次地观察身边的鸟儿，小蓝鹊、黑喜鹊、燕子、鸽子、鸥、鹤、鹈鹕、天鹅、乌鸦。这些生灵，小小的身体里满是自然的灵性，观察他们让我意识到我很幸运，作为自然生态中的一员，和它们一样，也是宇宙中一枚小小的生命。</p><p>小蓝鹊，很常见，灰蓝色的身体，微微向上倾斜的尾巴，给身体一种平衡的美感。他们喜欢在空地上停留嬉戏，喜欢在茂密的林间穿梭，喜欢在突出的枝干、雕塑、健身器材上停留。</p><p>黑喜鹊（黑白色）在家乡常见，他们总是欢快又吵闹，喜欢停留在公路旁的路灯、电线杆、灌木的顶端，警觉地看着行人，不停地呱噪几声。胆大点的会降落到路上找些吃的，遇到行人经过，又飞到不远的地方四处张望。</p><p>乌鸦，如果观察过喜鹊，你会更容易看出乌鸦和喜鹊的区别。</p><h2 id="随笔"><a href="#随笔" class="headerlink" title="随笔"></a>随笔</h2><ul><li>周末认识了一种树，栾树，挂着灯笼一样的果子，落地的花铺就一席嫩黄的地毯。</li><li>「夹岸桃花蘸水开」，出自宋代徐俯的「春游湖」，这一个「蘸」字写尽了我在水边的所见所想，再贴切不过了。</li><li>中华民族伟大复兴，不就是 Make China Great Again 吗？！</li><li>国家富强，民族振兴，人民幸福，损坏赔偿。<em>—-公交上的标语太多了，连在一起读顿感社会主义事业之伟大威严庄重，不容破坏。</em></li></ul><h2 id=""><a href="#" class="headerlink" title=" "></a> </h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;这些生灵，小小的身体里满是自然的灵性，观察他们让我意识到我很幸运，作为自然生态中的一员，和它们一样，也是宇宙中一枚小小的生命。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;书摘&quot;&gt;&lt;a href=&quot;#书摘&quot; class=&quot;headerlin
+      
+    
+    </summary>
+    
+    
+    
+      <category term="reading" scheme="https://liphy.github.io/tags/reading/"/>
+    
+      <category term="poem" scheme="https://liphy.github.io/tags/poem/"/>
+    
+      <category term="tree" scheme="https://liphy.github.io/tags/tree/"/>
+    
+      <category term="bird" scheme="https://liphy.github.io/tags/bird/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>5： 所有人都是残疾人</title>
+    <link href="https://liphy.github.io/5/"/>
+    <id>https://liphy.github.io/5/</id>
+    <published>2019-06-11T07:11:26.000Z</published>
+    <updated>2019-12-12T06:34:15.356Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.imgur.com/Xo2mwoA.jpg" alt="Antarctic"></p><h2 id="断章"><a href="#断章" class="headerlink" title="断章"></a>断章</h2><p><strong>20190606</strong></p><blockquote><p>新买的耳机戴了几天，</p><p>我又认识自己多了一些，</p><p>左耳孔大，右耳孔小。</p></blockquote><p><strong>20190610</strong></p><blockquote><p>现实中的网络审查固然可怕，</p><p>不及自我审查的百分之一，</p><p>呵呵呵。</p></blockquote><p><strong>20190611</strong></p><blockquote><p>西西弗的冷气很足，</p><p>我喜欢的书披了塑封，</p><p>我欣慰少许。</p></blockquote><h2 id="视听笔记"><a href="#视听笔记" class="headerlink" title="视听笔记"></a>视听笔记</h2><p><a href="https://movie.douban.com/subject/25947610/" target="_blank" rel="noopener">僵尸国度 第一季 (豆瓣)</a> 刷完了这部僵尸剧，相比 TWD 我更喜欢这部轻僵尸剧，戏谑、黑色幽默、嘲讽时政，总之看墨菲吃脑很下饭……</p><p>想看 <a href="https://movie.douban.com/subject/5160385/" target="_blank" rel="noopener">另一个地球 </a>  </p><h2 id="书摘"><a href="#书摘" class="headerlink" title="书摘"></a>书摘</h2><blockquote><p>他们身处富饶之中，却逐渐饥饿至死。</p></blockquote><p>– 2001:太空漫游，阿瑟·克拉克</p><blockquote><p>年轻时，我没受过多少系统教育，但什么书都读。读得最多的是诗，包括烂诗，我坚信烂诗早晚会让我邂逅好诗。</p></blockquote><p>– [哥伦比亚] 加西亚·马尔克斯，诺贝尔文学奖得主</p><blockquote><p>当有人说「我没什么敏感的话要说，隐私和安全问题与我无关」时反问她：为什么妳说的话总是那么不敏感？</p></blockquote><p>– <a href="https://blog.yitianshijie.net/2019/06/10/how-to-be-radical/" target="_blank" rel="noopener">如何反抗 – 一天世界</a> ，本文标题亦出自此文。</p><p>[<a href="https://www.douban.com/people/186017895/status/2502360232/" target="_blank" rel="noopener">极简主义如何改变你的生活的？</a></p><blockquote><p>1.不闲聊，不妄议，语言精炼极致；<br>2.不做无效社交，有闲暇时间宁可陪家人；<br>3.不断精进，把时间用在擅长的事情上。把复杂的问题简化处，简单的问题模式一化，模式的问题系统化；<br>4.穿着简洁、追求干净、舒适的自我体验，与其热衷大牌产品，更独爱个性/小众/定制产品；<br>5.服装颜色不超过3种，衣服只有那么几件，不会为穿什么而烦恼；<br>6.和果汁相比更爱水果，和饮料相比更爱茶；<br>7.喜欢自己做饭，热衷蔬菜，对肉的欲望减少；<br>8.和去健身房比起来，更喜欢自然的户外走路；<br>9.和刷屏看碎片化的信息相比，更喜欢阅读经典的书；<br>10.不需要阿臾别人来获得存在感；不需要靠贬低别人来获得优越感。</p></blockquote><h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h2><p><a href="https://github.com/exiftool/exiftool" target="_blank" rel="noopener">exiftool</a> 一个读、写文件 meta information 的工具。支持<a href="http://owl.phy.queensu.ca/~phil/exiftool/#features" target="_blank" rel="noopener">众多</a>文件格式，典型应用是读取照片的拍摄设备、焦距、拍摄地点等等。<a href="http://owl.phy.queensu.ca/~phil/exiftool/" target="_blank" rel="noopener">这里</a>有可执行文件供下载。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Xo2mwoA.jpg&quot; alt=&quot;Antarctic&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;断章&quot;&gt;&lt;a href=&quot;#断章&quot; class=&quot;headerlink&quot; title=&quot;断章&quot;&gt;&lt;/a&gt;断章&lt;/h2&gt;&lt;p&gt;&lt;st
+      
+    
+    </summary>
+    
+    
+    
+      <category term="reading" scheme="https://liphy.github.io/tags/reading/"/>
+    
+      <category term="poem" scheme="https://liphy.github.io/tags/poem/"/>
     
   </entry>
   
@@ -159,16 +221,17 @@
     <link href="https://liphy.github.io/0/"/>
     <id>https://liphy.github.io/0/</id>
     <published>2019-05-05T14:12:34.000Z</published>
-    <updated>2019-06-11T09:50:29.292Z</updated>
+    <updated>2019-12-12T08:03:06.475Z</updated>
     
-    <content type="html"><![CDATA[<p>「不可思议」在汉传佛教中既有奇异的、稀有的、绝妙的、常人意想不到奇迹，可以是指佛的智慧与神通；<br>因常人的智慧不能思惟，所以不能够或不应该思惟议论的事项，包含了无关解脱的事情不应该去思惟议论的含义。</p><p>所见所闻，不可思议。<br>不可思议，只可意会。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<p>「不可思议」在汉传佛教中既有奇异的、稀有的、绝妙的、常人意想不到奇迹，可以是指佛的智慧与神通；</p><p>因常人的智慧不能思惟，所以不能够或不应该思惟议论的事项，包含了无关解脱的事情不应该去思惟议论的含义。</p><p>所见所闻，不可思议。<br>不可思议，只可意会。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;「不可思议」在汉传佛教中既有奇异的、稀有的、绝妙的、常人意想不到奇迹，可以是指佛的智慧与神通；&lt;br&gt;因常人的智慧不能思惟，所以不能够或不应该思惟议论的事项，包含了无关解脱的事情不应该去思惟议论的含义。&lt;/p&gt;
-&lt;p&gt;所见所闻，不可思议。&lt;br&gt;不可思议，只可意会。&lt;/p&gt;
+        &lt;p&gt;「不可思议」在汉传佛教中既有奇异的、稀有的、绝妙的、常人意想不到奇迹，可以是指佛的智慧与神通；&lt;/p&gt;
+&lt;p&gt;因常人的智慧不能思惟，所以不能够或不应该思惟议论的事项，包含了无关解脱的事情不应该去思惟议论的含义。&lt;/p&gt;
+&lt;p&gt;所见所闻，不可思议。&lt;br&gt;不可思议，只可意会。
       
     
     </summary>
