@@ -7,12 +7,12 @@ title: 41 blog
 subtitle: Do fewer things, Better.
 description:
 author: 41
-language: en
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://liphy.github.io/
 root: /
 permalink: :urlname/
 permalink_defaults:
@@ -52,11 +52,25 @@ index_generator:
   per_page: 10
   order_by: -date
   
-# Category & Tag
-default_category: uncategorized
+# Category & Tag 
+default_category: life
+# 分类名映射
 category_map:
+  手记: notes
+  读书: reading
+  IT相关: IT
+  诗词: poems
+  播客: podcast
+  影视: movies
+  python: python
+  地图: map
+  生活: life
+  旅行: travel
+  利器: tools
+# 标签名映射
 tag_map:
-
+  生活: life
+  
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
@@ -71,6 +85,32 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+# RSS，要先进入站点文件夹根目录安装插件
+# npm install hexo-generator-feed --save 即可
+# 无需更多配置
+# 参数说明查看 README：https://github.com/hexojs/hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+# 文章数，0 为全部
+  limit: 0
+  hub:
+# 是否包含文章内容
+  content: true
+
+# emoji 支持
+# npm install hexo-filter-github-emojis --save 安装
+githubEmojis:
+  enable: true
+  className: github-emoji
+  inject: true
+  styles:
+  customEmojis:
+
+## plugins:
+## 注脚安装 npm install hexo-footnotes --save
+  - hexo-footnotes
+  
 ## Themes: https://hexo.io/themes/
 theme: next
 
@@ -80,3 +120,10 @@ deploy:
     type: git
     repo: git@github.com:liphy/liphy.github.io.git
     branch: master
+
+# hexo-admin authentification
+admin:
+  username: 41notes
+  password_hash: $2a$10$CoiCgb6jIxaDtU1YsZ6fQud.kIiLfAx.fw3Ru.pG0NrqfoiyFH3Ti
+  secret: dwarf blowgun subdue gauntlet
+  deployCommand: 'hexo-deploy.bat'

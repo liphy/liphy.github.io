@@ -1,13 +1,12 @@
----
 title: 使用 Hexo + Github Pages 搭建个人博客
 urlname: hexo-github-Blog
-date: 2018-01-04 22:52:02
 tags:
   - blog
-  - github
   - hexo
+  - github
+categories: []
+date: 2018-01-04 22:52:00
 ---
-
 2180104,Thu update:
 
 
@@ -19,20 +18,20 @@ tags:
 
 [hexo你的博客](http://ibruce.info/2013/11/22/hexo-your-blog/)
 
-# 系统环境配置
+## 系统环境配置
 
 要使用Hexo，需要在你的系统中支持Nodejs以及Git，如果还没有，那就开始安装吧！
 
-## 安装Node.js
+### 安装Node.js
 
 [下载Node.js](https://nodejs.org/download/)
 参考地址：[安装Node.js](http://www.w3cschool.cc/nodejs/nodejs-install-setup.html)
 
-## 安装Git
+### 安装Git
 
 下载地址：[http://git-scm.com/download/](http://git-scm.com/download/)
 
-## 安装Hexo
+### 安装Hexo
 
 
 ```
@@ -77,9 +76,9 @@ $ hexo d -g #生成部署
 $ hexo s -g #生成预览
 
 ```
-# 主题设置
+## 主题设置
 
-## 	安装主题
+### 	安装主题
 
 ```
 $ hexo clean
@@ -87,11 +86,11 @@ $ hexo clean
 $ git clone https://github.com/iissnan/hexo-theme-next blog/themes/next
 
 ```
-## 启用主题
+### 启用主题
 
 修改Hexo目录下的_config.yml配置文件中的theme属性，将其设置为next。
 
-## 更新主题
+### 更新主题
 
 更改主题后必须 **生成、更新：	**
 
@@ -113,9 +112,9 @@ $ hexo s # 启动本地web服务器
 ![Screenshot-2018-1-4 Hexo]($res/Screenshot-2018-1-4%20Hexo.png)
 
 
-# Github Pages 设置
+## Github Pages 设置
 
-## 创建自己的 Github Pages
+### 创建自己的 Github Pages
 
 略 liphy.github.io
 
@@ -123,7 +122,7 @@ $ hexo s # 启动本地web服务器
 
 [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2)
 
-# 部署 Hexo 到 Github Pages
+## 部署 Hexo 到 Github Pages
 
 首先需要明白所谓部署到github的原理。
 
@@ -136,7 +135,7 @@ $ hexo s # 启动本地web服务器
 明白了原理，怎么做自然就清晰了。
 
 
-# 使用hexo deploy部署
+## 使用hexo deploy部署
 
 
 hexo deploy可以部署到很多平台，具体可以[参考这个链接](https://hexo.io/docs/deployment.html). 如果部署到github，需要在配置文件_config.xml中作如下修改：	
@@ -158,7 +157,7 @@ hexo d
 ```
 即可部署。
 
-# 常见问题
+## 常见问题
 
 ### error deployer not found:git 错误
 
@@ -187,3 +186,14 @@ deploy:
     branch: master
 ```
 
+### ERROR Local hexo not found in D:\hexo
+
+导致这个原因为在自己的博客文件夹中,.gitignore文件中添加了node_modules/,导致更新的时候,这个文件夹被忽略,没有被更新上去。
+
+解决方案:
+
+  1.cmd 进入博客当前文件夹路径
+
+  2.执行 npm install
+
+  3.再执行 hexo server

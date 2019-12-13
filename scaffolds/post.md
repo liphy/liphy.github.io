@@ -1,6 +1,9 @@
 ---
-urlname: 
 title: {{ title }}
 date: {{ date }}
-tags: 
+urlname: 
+toc: true
+tags: {{ tags }}
+categories:
 ---
+
