@@ -430,9 +430,9 @@
     
       <category term="2018" scheme="https://liphy.github.io/tags/2018/"/>
     
-      <category term="读书" scheme="https://liphy.github.io/tags/%E8%AF%BB%E4%B9%A6/"/>
-    
       <category term="reading" scheme="https://liphy.github.io/tags/reading/"/>
+    
+      <category term="读书" scheme="https://liphy.github.io/tags/%E8%AF%BB%E4%B9%A6/"/>
     
   </entry>
   
@@ -486,9 +486,9 @@
     
       <category term="blog" scheme="https://liphy.github.io/tags/blog/"/>
     
-      <category term="Hexo" scheme="https://liphy.github.io/tags/Hexo/"/>
-    
       <category term="github" scheme="https://liphy.github.io/tags/github/"/>
+    
+      <category term="Hexo" scheme="https://liphy.github.io/tags/Hexo/"/>
     
       <category term="同步" scheme="https://liphy.github.io/tags/%E5%90%8C%E6%AD%A5/"/>
     
@@ -634,9 +634,9 @@
     
     
     
-      <category term="writing" scheme="https://liphy.github.io/tags/writing/"/>
-    
       <category term="Hexo" scheme="https://liphy.github.io/tags/Hexo/"/>
+    
+      <category term="writing" scheme="https://liphy.github.io/tags/writing/"/>
     
       <category term="YuWriter" scheme="https://liphy.github.io/tags/YuWriter/"/>
     
@@ -672,9 +672,9 @@
     
       <category term="blog" scheme="https://liphy.github.io/tags/blog/"/>
     
-      <category term="Hexo" scheme="https://liphy.github.io/tags/Hexo/"/>
-    
       <category term="github" scheme="https://liphy.github.io/tags/github/"/>
+    
+      <category term="Hexo" scheme="https://liphy.github.io/tags/Hexo/"/>
     
   </entry>
   
@@ -731,9 +731,9 @@
     
       <category term="blog" scheme="https://liphy.github.io/tags/blog/"/>
     
-      <category term="hexo" scheme="https://liphy.github.io/tags/hexo/"/>
-    
       <category term="github" scheme="https://liphy.github.io/tags/github/"/>
+    
+      <category term="hexo" scheme="https://liphy.github.io/tags/hexo/"/>
     
   </entry>
   
