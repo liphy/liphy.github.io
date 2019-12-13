@@ -154,9 +154,9 @@
     
     
     
-      <category term="reading" scheme="https://liphy.github.io/tags/reading/"/>
-    
       <category term="Bohemian Rhapsody" scheme="https://liphy.github.io/tags/Bohemian-Rhapsody/"/>
+    
+      <category term="reading" scheme="https://liphy.github.io/tags/reading/"/>
     
       <category term="短诗" scheme="https://liphy.github.io/tags/%E7%9F%AD%E8%AF%97/"/>
     
@@ -336,9 +336,9 @@
     
     
     
-      <category term="life" scheme="https://liphy.github.io/tags/life/"/>
-    
       <category term="overflow" scheme="https://liphy.github.io/tags/overflow/"/>
+    
+      <category term="life" scheme="https://liphy.github.io/tags/life/"/>
     
       <category term="share" scheme="https://liphy.github.io/tags/share/"/>
     
@@ -634,15 +634,44 @@
     
     
     
-      <category term="Hexo" scheme="https://liphy.github.io/tags/Hexo/"/>
-    
       <category term="writing" scheme="https://liphy.github.io/tags/writing/"/>
+    
+      <category term="Hexo" scheme="https://liphy.github.io/tags/Hexo/"/>
     
       <category term="YuWriter" scheme="https://liphy.github.io/tags/YuWriter/"/>
     
       <category term="Dropbox" scheme="https://liphy.github.io/tags/Dropbox/"/>
     
       <category term="Github" scheme="https://liphy.github.io/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读林清玄散文</title>
+    <link href="https://liphy.github.io/essay-of-linqingxuan/"/>
+    <id>https://liphy.github.io/essay-of-linqingxuan/</id>
+    <published>2018-01-04T14:52:02.000Z</published>
+    <updated>2019-03-05T09:10:31.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近在读林清玄的《人间有味是清欢》，一本有关生活的感悟的散文集。</p><p>2017年已经读的书多属于科技、历史、虚构小说类型。对于散文，多年未读。</p><p>读来，不免以理工科的思维在脑中浅浅地推敲句子，不时嘀咕 “这一句不合理，完全唯心。”</p><p>经过这么”理性“地剖解，一篇美丽的散文变得不那么浪漫，破坏了散文带来的美感体验。</p><blockquote><p>读散文莫理性</p></blockquote><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近在读林清玄的《人间有味是清欢》，一本有关生活的感悟的散文集。&lt;/p&gt;
+&lt;p&gt;2017年已经读的书多属于科技、历史、虚构小说类型。对于散文，多年未读。&lt;/p&gt;
+&lt;p&gt;读来，不免以理工科的思维在脑中浅浅地推敲句子，不时嘀咕 “这一句不合理，完全唯心。”&lt;/p&gt;
+&lt;p&gt;经过这
+      
+    
+    </summary>
+    
+    
+    
+      <category term="reading" scheme="https://liphy.github.io/tags/reading/"/>
+    
+      <category term="essay" scheme="https://liphy.github.io/tags/essay/"/>
     
   </entry>
   
@@ -679,35 +708,6 @@
   </entry>
   
   <entry>
-    <title>读林清玄散文</title>
-    <link href="https://liphy.github.io/essay-of-linqingxuan/"/>
-    <id>https://liphy.github.io/essay-of-linqingxuan/</id>
-    <published>2018-01-04T14:52:02.000Z</published>
-    <updated>2019-03-05T09:10:31.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>最近在读林清玄的《人间有味是清欢》，一本有关生活的感悟的散文集。</p><p>2017年已经读的书多属于科技、历史、虚构小说类型。对于散文，多年未读。</p><p>读来，不免以理工科的思维在脑中浅浅地推敲句子，不时嘀咕 “这一句不合理，完全唯心。”</p><p>经过这么”理性“地剖解，一篇美丽的散文变得不那么浪漫，破坏了散文带来的美感体验。</p><blockquote><p>读散文莫理性</p></blockquote><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;最近在读林清玄的《人间有味是清欢》，一本有关生活的感悟的散文集。&lt;/p&gt;
-&lt;p&gt;2017年已经读的书多属于科技、历史、虚构小说类型。对于散文，多年未读。&lt;/p&gt;
-&lt;p&gt;读来，不免以理工科的思维在脑中浅浅地推敲句子，不时嘀咕 “这一句不合理，完全唯心。”&lt;/p&gt;
-&lt;p&gt;经过这
-      
-    
-    </summary>
-    
-    
-    
-      <category term="reading" scheme="https://liphy.github.io/tags/reading/"/>
-    
-      <category term="essay" scheme="https://liphy.github.io/tags/essay/"/>
-    
-  </entry>
-  
-  <entry>
     <title>使用 Hexo + Github Pages 搭建个人博客</title>
     <link href="https://liphy.github.io/hexo-github-Blog/"/>
     <id>https://liphy.github.io/hexo-github-Blog/</id>
@@ -731,9 +731,9 @@
     
       <category term="blog" scheme="https://liphy.github.io/tags/blog/"/>
     
-      <category term="github" scheme="https://liphy.github.io/tags/github/"/>
-    
       <category term="hexo" scheme="https://liphy.github.io/tags/hexo/"/>
+    
+      <category term="github" scheme="https://liphy.github.io/tags/github/"/>
     
   </entry>
   
