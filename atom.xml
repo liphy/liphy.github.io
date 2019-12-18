@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://liphy.github.io/"/>
-  <updated>2019-12-12T08:17:37.993Z</updated>
+  <updated>2019-12-17T09:55:15.735Z</updated>
   <id>https://liphy.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://liphy.github.io/2019-reading-summary/"/>
     <id>https://liphy.github.io/2019-reading-summary/</id>
     <published>2019-12-09T07:52:00.000Z</published>
-    <updated>2019-12-12T08:17:37.993Z</updated>
+    <updated>2019-12-17T09:55:15.735Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="\images\pasted-0.png" alt="books"></p><h3 id="这一年"><a href="#这一年" class="headerlink" title="这一年"></a>这一年</h3><p>2019年依然埋头读书。这一年读书不多，依然是尽量依照自己的兴趣去读。</p><p>固定的读书时间让我觉得心安。世事纷扰啊，成年人光是接触到书，都需要拨开重重迷雾，安心读上几页已是奢谈。于是格外珍惜读书时光。每个通勤的早晨，读书之前除了点餐之外不看手机。洗手坐定，拿出书，即开始一段全心投入的读书时间。</p><p>有时夜晚也能抽出一些时间来读上几页，无奈睡意及时将我击倒，坠入沉沉黑夜。</p><p>早晚读书，大有不同。早晨放空的大脑，纯粹、包容，对每一行字句都全盘接纳。<br>晚上读书，白天经历的一切都是阻碍，横亘在你和书之间，非要凭着坚决的意志推开层层阻碍，才见真章。</p><h3 id="读书类型总结"><a href="#读书类型总结" class="headerlink" title="读书类型总结"></a>读书类型总结</h3><h4 id="书单"><a href="#书单" class="headerlink" title="书单"></a>书单</h4><p>读了中东国家、土耳其方面的书，读了几本诗集。</p><h4 id="2019-最佳书目"><a href="#2019-最佳书目" class="headerlink" title="2019 最佳书目"></a>2019 最佳书目</h4><ul><li><p>「加缪手记（共三卷）」。加缪说「这个世纪的真相：因为历经了许多重大事件，我们开始习惯说谎。别再去管其余一切，只说出我内心最深处的那些。」学着加缪，在日记里说出内心最深处的那些。</p></li><li><p>「蒙田随笔」</p></li></ul><h3 id="读书介质"><a href="#读书介质" class="headerlink" title="读书介质"></a>读书介质</h3><ul><li><p>Kindle，轻便、随时阅读。</p></li><li><p>图书馆。纸质书依然是无法割舍，抚摸纸书的感觉真好。</p></li><li><p>微信读书，今年取消了听书，主要用来读读诗集。</p></li></ul><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><p>继续读某一专题的书。例如年初读了三岛由纪夫的「丰饶之海」四部曲之后，坠入了「三岛美学」的漩涡。</p><p>接下来专注专题读书：</p><ul><li>两次世界大战及交战国主题； </li><li>日本作者的书籍，川端康成、谷崎润一郎、永井荷风等。</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<p><img src="\images\pasted-0.png" alt="books"></p><h3 id="这一年"><a href="#这一年" class="headerlink" title="这一年"></a>这一年</h3><p>2019年依然埋头读书。这一年读书不多，依然是尽量依照自己的兴趣去读。</p><p>固定的读书时间让我觉得心安。世事纷扰啊，成年人光是接触到书，都需要拨开重重迷雾，安心读上几页已是奢谈。于是格外珍惜读书时光。每个通勤的早晨，读书之前除了点餐之外不看手机。洗手坐定，拿出书，即开始一段全心投入的读书时间。</p><p>有时夜晚也能抽出一些时间来读上几页，无奈睡意及时将我击倒，坠入沉沉黑夜。</p><p>早晚读书，大有不同。早晨放空的大脑，纯粹、包容，对每一行字句都全盘接纳。<br>晚上读书，白天经历的一切都是阻碍，横亘在你和书之间，非要凭着坚决的意志推开层层阻碍，才见真章。</p><h3 id="书单"><a href="#书单" class="headerlink" title="书单"></a>书单</h3><p>读了中东国家、土耳其方面的书，读了几本诗集。</p><h4 id="读完"><a href="#读完" class="headerlink" title="读完"></a>读完</h4><h4 id="在读"><a href="#在读" class="headerlink" title="在读"></a>在读</h4><p>《桃花扇》，生、旦、末</p><h4 id="中途搁置"><a href="#中途搁置" class="headerlink" title="中途搁置"></a>中途搁置</h4><h4 id="想读"><a href="#想读" class="headerlink" title="想读"></a>想读</h4><p>《Python高手之路》</p><h4 id="2019-最佳书目"><a href="#2019-最佳书目" class="headerlink" title="2019 最佳书目"></a>2019 最佳书目</h4><ul><li><p>「加缪手记（共三卷）」。加缪说「这个世纪的真相：因为历经了许多重大事件，我们开始习惯说谎。别再去管其余一切，只说出我内心最深处的那些。」学着加缪，在日记里说出内心最深处的那些。</p></li><li><p>「蒙田随笔」</p></li></ul><h3 id="读书介质"><a href="#读书介质" class="headerlink" title="读书介质"></a>读书介质</h3><ul><li><p>Kindle，轻便、随时阅读。</p></li><li><p>图书馆。纸质书依然是无法割舍，抚摸纸书的感觉真好。</p></li><li><p>微信读书，今年取消了听书，主要用来读读诗集。</p></li></ul><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><p>继续读某一专题的书。例如年初读了三岛由纪夫的「丰饶之海」四部曲之后，坠入了「三岛美学」的漩涡。</p><p>接下来专注专题读书：</p><ul><li>两次世界大战及交战国主题； </li><li>日本作者的书籍，川端康成、谷崎润一郎、永井荷风等。</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
@@ -154,9 +154,9 @@
     
     
     
-      <category term="reading" scheme="https://liphy.github.io/tags/reading/"/>
-    
       <category term="Bohemian Rhapsody" scheme="https://liphy.github.io/tags/Bohemian-Rhapsody/"/>
+    
+      <category term="reading" scheme="https://liphy.github.io/tags/reading/"/>
     
       <category term="短诗" scheme="https://liphy.github.io/tags/%E7%9F%AD%E8%AF%97/"/>
     
