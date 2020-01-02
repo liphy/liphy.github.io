@@ -514,9 +514,9 @@
     
     
     
-      <category term="blog" scheme="https://41notes.xyz/tags/blog/"/>
-    
       <category term="Hexo" scheme="https://41notes.xyz/tags/Hexo/"/>
+    
+      <category term="blog" scheme="https://41notes.xyz/tags/blog/"/>
     
       <category term="github" scheme="https://41notes.xyz/tags/github/"/>
     
@@ -664,9 +664,9 @@
     
     
     
-      <category term="writing" scheme="https://41notes.xyz/tags/writing/"/>
-    
       <category term="Hexo" scheme="https://41notes.xyz/tags/Hexo/"/>
+    
+      <category term="writing" scheme="https://41notes.xyz/tags/writing/"/>
     
       <category term="YuWriter" scheme="https://41notes.xyz/tags/YuWriter/"/>
     
@@ -700,9 +700,9 @@
     
     
     
-      <category term="blog" scheme="https://41notes.xyz/tags/blog/"/>
-    
       <category term="Hexo" scheme="https://41notes.xyz/tags/Hexo/"/>
+    
+      <category term="blog" scheme="https://41notes.xyz/tags/blog/"/>
     
       <category term="github" scheme="https://41notes.xyz/tags/github/"/>
     
@@ -761,9 +761,9 @@
     
       <category term="blog" scheme="https://41notes.xyz/tags/blog/"/>
     
-      <category term="hexo" scheme="https://41notes.xyz/tags/hexo/"/>
-    
       <category term="github" scheme="https://41notes.xyz/tags/github/"/>
+    
+      <category term="hexo" scheme="https://41notes.xyz/tags/hexo/"/>
     
   </entry>
   
